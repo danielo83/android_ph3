@@ -6,7 +6,6 @@
 	
 <icon src="icon.png" />
 <preference name="target-device" value="universal" />
-<preference name="phonegap-version" value="3.0" />
 <preference name="auto-hide-splash-screen" value="false" />
 <gap:splash src="/android/xhdpi.png" />
 <gap:splash src="android/ldpi.png" gap:platform="android" gap:density="ldpi" />
